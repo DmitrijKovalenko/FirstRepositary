@@ -1,3 +1,4 @@
 Good Bye!
 String
 Hello!
+line from User2
