@@ -1,9 +1,0 @@
-Good Bye!
-String
-Hello!
-line from User2
-<<<<<<< HEAD
-line frpm user1
-=======
-line from user1
->>>>>>> 91a700d5cee3b1286c6f38dee8409c6be7bce141
